@@ -1,17 +1,113 @@
-# tech_store_new
+<h1 align="center">🛍️ Tech Store</h1>
 
-A new Flutter project.
+<p align="center">
+Modern E-Commerce Mobile Application built with Flutter & Firebase.
+</p>
 
-## Getting Started
+<p align="center">
+<img src="tech-store.png" width="85%">
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge">
+
+</p>
+
+---
+
+# ✨ Features
+
+- 🔐 Firebase Authentication
+- 🛒 Shopping Cart
+- ❤️ Favorites
+- 🔍 Smart Search
+- 📂 Categories
+- 📱 Responsive UI
+- ☁️ Cloud Firestore
+- 🔥 Modern Design
+
+---
+
+# 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- REST API
+- Provider
+- Shared Preferences
+
+---
+
+# 📱 Screens
+
+- Splash Screen
+- Login
+- Home
+- Categories
+- Product Details
+- Favorites
+- Cart
+- Profile
+
+---
+
+# 🚀 Getting Started
+
+```bash
+git clone https://github.com/marioooo00/tech-store.git
+
+cd tech-store
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+# 📂 Project Structure
+
+```
+lib/
+│
+├── models
+├── services
+├── screens
+├── widgets
+├── providers
+├── utils
+└── main.dart
+```
+
+---
+
+# 🎯 Future Improvements
+
+- 💳 Online Payments
+- ❤️ Wishlist Sync
+- 🌙 Dark Mode
+- 🔔 Push Notifications
+- ⭐ Product Reviews
+
+---
+
+# 👨‍💻 Developer
+
+**Mario Romany**
+
+Flutter Developer
+
+📧 marioromany645@gmail.com
+
+---
+
+## ⭐ Don't forget to Star this repository if you like it.
